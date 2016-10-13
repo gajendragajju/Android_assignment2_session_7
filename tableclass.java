@@ -1,14 +1,14 @@
-package com.acadgild.android.databaseexample.database;
+package com.gajju.android.databaseexample.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.acadgild.android.databaseexample.utils.Constants;
+import com.gajju.android.databaseexample.utils.Constants;
 
 
 /**
- * Created by Preetika on 6/23/2016.
+ * Created by me on
  */
 public class TablesClass extends SQLiteOpenHelper {
 

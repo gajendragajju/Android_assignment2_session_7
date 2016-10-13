@@ -1,4 +1,4 @@
-package com.acadgild.android.databaseexample;
+package com.gajju.android.databaseexample;
 
 import android.app.Activity;
 import android.content.ContentValues;
@@ -10,10 +10,10 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.acadgild.android.databaseexample.database.DBHelper;
-import com.acadgild.android.databaseexample.model.BookData;
-import com.acadgild.android.databaseexample.utils.CommonUtilities;
-import com.acadgild.android.databaseexample.utils.Constants;
+import com.gajju.android.databaseexample.database.DBHelper;
+import com.gajju.android.databaseexample.model.BookData;
+import com.gajju.android.databaseexample.utils.CommonUtilities;
+import com.gajju.android.databaseexample.utils.Constants;
 
 import java.util.ArrayList;
 import java.util.List;

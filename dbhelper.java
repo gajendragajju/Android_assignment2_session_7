@@ -1,4 +1,4 @@
-package com.acadgild.android.databaseexample.database;
+package com.gajju.android.databaseexample.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,15 +7,15 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 
 
-import com.acadgild.android.databaseexample.model.BookData;
-import com.acadgild.android.databaseexample.utils.Constants;
+import com.gajju.android.databaseexample.model.BookData;
+import com.gajju.android.databaseexample.utils.Constants;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by Preetika on 6/23/2016.
+ * by me
  */
 public class DBHelper {
     private SQLiteDatabase db;
